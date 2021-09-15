@@ -1,1 +1,1 @@
-# LetsUpgrade-Cloud-Day1-A1
+# LetsUpgrade-AWS-Cloud
